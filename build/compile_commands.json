@@ -1,0 +1,86 @@
+[
+{
+  "directory": "/Users/coder/Desktop/AdaptiDay/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DDEBUG -DIMGUI_ENABLE_FREETYPE -DMACOSX -I/Users/coder/Desktop/AdaptiDay/include -I/opt/homebrew/Cellar/sdl2/2.30.5/include -F/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/System/Library/Frameworks -I/Users/coder/Desktop/AdaptiDay/imgui -isystem /opt/homebrew/Cellar/sdl2/2.30.5/include/SDL2 -g -std=c++2b -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -o CMakeFiles/imgui.dir/imgui/imgui.cpp.o -c /Users/coder/Desktop/AdaptiDay/imgui/imgui.cpp",
+  "file": "/Users/coder/Desktop/AdaptiDay/imgui/imgui.cpp",
+  "output": "CMakeFiles/imgui.dir/imgui/imgui.cpp.o"
+},
+{
+  "directory": "/Users/coder/Desktop/AdaptiDay/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DDEBUG -DIMGUI_ENABLE_FREETYPE -DMACOSX -I/Users/coder/Desktop/AdaptiDay/include -I/opt/homebrew/Cellar/sdl2/2.30.5/include -F/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/System/Library/Frameworks -I/Users/coder/Desktop/AdaptiDay/imgui -isystem /opt/homebrew/Cellar/sdl2/2.30.5/include/SDL2 -g -std=c++2b -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -o CMakeFiles/imgui.dir/imgui/imgui_draw.cpp.o -c /Users/coder/Desktop/AdaptiDay/imgui/imgui_draw.cpp",
+  "file": "/Users/coder/Desktop/AdaptiDay/imgui/imgui_draw.cpp",
+  "output": "CMakeFiles/imgui.dir/imgui/imgui_draw.cpp.o"
+},
+{
+  "directory": "/Users/coder/Desktop/AdaptiDay/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DDEBUG -DIMGUI_ENABLE_FREETYPE -DMACOSX -I/Users/coder/Desktop/AdaptiDay/include -I/opt/homebrew/Cellar/sdl2/2.30.5/include -F/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/System/Library/Frameworks -I/Users/coder/Desktop/AdaptiDay/imgui -isystem /opt/homebrew/Cellar/sdl2/2.30.5/include/SDL2 -g -std=c++2b -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -o CMakeFiles/imgui.dir/imgui/imgui_widgets.cpp.o -c /Users/coder/Desktop/AdaptiDay/imgui/imgui_widgets.cpp",
+  "file": "/Users/coder/Desktop/AdaptiDay/imgui/imgui_widgets.cpp",
+  "output": "CMakeFiles/imgui.dir/imgui/imgui_widgets.cpp.o"
+},
+{
+  "directory": "/Users/coder/Desktop/AdaptiDay/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DDEBUG -DIMGUI_ENABLE_FREETYPE -DMACOSX -I/Users/coder/Desktop/AdaptiDay/include -I/opt/homebrew/Cellar/sdl2/2.30.5/include -F/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/System/Library/Frameworks -I/Users/coder/Desktop/AdaptiDay/imgui -isystem /opt/homebrew/Cellar/sdl2/2.30.5/include/SDL2 -g -std=c++2b -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -o CMakeFiles/imgui.dir/imgui/imgui_tables.cpp.o -c /Users/coder/Desktop/AdaptiDay/imgui/imgui_tables.cpp",
+  "file": "/Users/coder/Desktop/AdaptiDay/imgui/imgui_tables.cpp",
+  "output": "CMakeFiles/imgui.dir/imgui/imgui_tables.cpp.o"
+},
+{
+  "directory": "/Users/coder/Desktop/AdaptiDay/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DDEBUG -DIMGUI_ENABLE_FREETYPE -DMACOSX -I/Users/coder/Desktop/AdaptiDay/include -I/opt/homebrew/Cellar/sdl2/2.30.5/include -F/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/System/Library/Frameworks -I/Users/coder/Desktop/AdaptiDay/imgui -isystem /opt/homebrew/Cellar/sdl2/2.30.5/include/SDL2 -g -std=c++2b -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -o CMakeFiles/imgui.dir/imgui/backends/imgui_impl_sdl2.cpp.o -c /Users/coder/Desktop/AdaptiDay/imgui/backends/imgui_impl_sdl2.cpp",
+  "file": "/Users/coder/Desktop/AdaptiDay/imgui/backends/imgui_impl_sdl2.cpp",
+  "output": "CMakeFiles/imgui.dir/imgui/backends/imgui_impl_sdl2.cpp.o"
+},
+{
+  "directory": "/Users/coder/Desktop/AdaptiDay/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DDEBUG -DIMGUI_ENABLE_FREETYPE -DMACOSX -I/Users/coder/Desktop/AdaptiDay/include -I/opt/homebrew/Cellar/sdl2/2.30.5/include -F/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/System/Library/Frameworks -I/Users/coder/Desktop/AdaptiDay/imgui -isystem /opt/homebrew/Cellar/sdl2/2.30.5/include/SDL2 -g -std=c++2b -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -o CMakeFiles/imgui.dir/imgui/backends/imgui_impl_opengl3.cpp.o -c /Users/coder/Desktop/AdaptiDay/imgui/backends/imgui_impl_opengl3.cpp",
+  "file": "/Users/coder/Desktop/AdaptiDay/imgui/backends/imgui_impl_opengl3.cpp",
+  "output": "CMakeFiles/imgui.dir/imgui/backends/imgui_impl_opengl3.cpp.o"
+},
+{
+  "directory": "/Users/coder/Desktop/AdaptiDay/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DDEBUG -DHAS_FREETYPE -DMACOSX -I/Users/coder/Desktop/AdaptiDay/include -I/opt/homebrew/Cellar/sdl2/2.30.5/include -I/opt/homebrew/Cellar/sdl2/2.30.5/include/SDL2 -F/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/System/Library/Frameworks -I/Users/coder/Desktop/AdaptiDay/imgui -g -std=c++2b -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -o CMakeFiles/AdaptiDay.dir/main.cpp.o -c /Users/coder/Desktop/AdaptiDay/main.cpp",
+  "file": "/Users/coder/Desktop/AdaptiDay/main.cpp",
+  "output": "CMakeFiles/AdaptiDay.dir/main.cpp.o"
+},
+{
+  "directory": "/Users/coder/Desktop/AdaptiDay/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DDEBUG -DHAS_FREETYPE -DMACOSX -I/Users/coder/Desktop/AdaptiDay/include -I/opt/homebrew/Cellar/sdl2/2.30.5/include -I/opt/homebrew/Cellar/sdl2/2.30.5/include/SDL2 -F/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/System/Library/Frameworks -I/Users/coder/Desktop/AdaptiDay/imgui -g -std=c++2b -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -o CMakeFiles/AdaptiDay.dir/src/colors.cpp.o -c /Users/coder/Desktop/AdaptiDay/src/colors.cpp",
+  "file": "/Users/coder/Desktop/AdaptiDay/src/colors.cpp",
+  "output": "CMakeFiles/AdaptiDay.dir/src/colors.cpp.o"
+},
+{
+  "directory": "/Users/coder/Desktop/AdaptiDay/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DDEBUG -DHAS_FREETYPE -DMACOSX -I/Users/coder/Desktop/AdaptiDay/include -I/opt/homebrew/Cellar/sdl2/2.30.5/include -I/opt/homebrew/Cellar/sdl2/2.30.5/include/SDL2 -F/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/System/Library/Frameworks -I/Users/coder/Desktop/AdaptiDay/imgui -g -std=c++2b -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -o CMakeFiles/AdaptiDay.dir/src/format.cpp.o -c /Users/coder/Desktop/AdaptiDay/src/format.cpp",
+  "file": "/Users/coder/Desktop/AdaptiDay/src/format.cpp",
+  "output": "CMakeFiles/AdaptiDay.dir/src/format.cpp.o"
+},
+{
+  "directory": "/Users/coder/Desktop/AdaptiDay/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DDEBUG -DHAS_FREETYPE -DMACOSX -I/Users/coder/Desktop/AdaptiDay/include -I/opt/homebrew/Cellar/sdl2/2.30.5/include -I/opt/homebrew/Cellar/sdl2/2.30.5/include/SDL2 -F/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/System/Library/Frameworks -I/Users/coder/Desktop/AdaptiDay/imgui -g -std=c++2b -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -o CMakeFiles/AdaptiDay.dir/src/gui.cpp.o -c /Users/coder/Desktop/AdaptiDay/src/gui.cpp",
+  "file": "/Users/coder/Desktop/AdaptiDay/src/gui.cpp",
+  "output": "CMakeFiles/AdaptiDay.dir/src/gui.cpp.o"
+},
+{
+  "directory": "/Users/coder/Desktop/AdaptiDay/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DDEBUG -DHAS_FREETYPE -DMACOSX -I/Users/coder/Desktop/AdaptiDay/include -I/opt/homebrew/Cellar/sdl2/2.30.5/include -I/opt/homebrew/Cellar/sdl2/2.30.5/include/SDL2 -F/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/System/Library/Frameworks -I/Users/coder/Desktop/AdaptiDay/imgui -g -std=c++2b -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -o CMakeFiles/AdaptiDay.dir/src/platform.cpp.o -c /Users/coder/Desktop/AdaptiDay/src/platform.cpp",
+  "file": "/Users/coder/Desktop/AdaptiDay/src/platform.cpp",
+  "output": "CMakeFiles/AdaptiDay.dir/src/platform.cpp.o"
+},
+{
+  "directory": "/Users/coder/Desktop/AdaptiDay/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DDEBUG -DHAS_FREETYPE -DMACOSX -I/Users/coder/Desktop/AdaptiDay/include -I/opt/homebrew/Cellar/sdl2/2.30.5/include -I/opt/homebrew/Cellar/sdl2/2.30.5/include/SDL2 -F/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/System/Library/Frameworks -I/Users/coder/Desktop/AdaptiDay/imgui -g -std=c++2b -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -o CMakeFiles/AdaptiDay.dir/src/window.cpp.o -c /Users/coder/Desktop/AdaptiDay/src/window.cpp",
+  "file": "/Users/coder/Desktop/AdaptiDay/src/window.cpp",
+  "output": "CMakeFiles/AdaptiDay.dir/src/window.cpp.o"
+},
+{
+  "directory": "/Users/coder/Desktop/AdaptiDay/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DDEBUG -DHAS_FREETYPE -DMACOSX -I/Users/coder/Desktop/AdaptiDay/include -I/opt/homebrew/Cellar/sdl2/2.30.5/include -I/opt/homebrew/Cellar/sdl2/2.30.5/include/SDL2 -F/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/System/Library/Frameworks -I/Users/coder/Desktop/AdaptiDay/imgui -g -std=c++2b -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -o CMakeFiles/AdaptiDay.dir/src/logging.cpp.o -c /Users/coder/Desktop/AdaptiDay/src/logging.cpp",
+  "file": "/Users/coder/Desktop/AdaptiDay/src/logging.cpp",
+  "output": "CMakeFiles/AdaptiDay.dir/src/logging.cpp.o"
+},
+{
+  "directory": "/Users/coder/Desktop/AdaptiDay/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DDEBUG -DMACOSX -I/Users/coder/Desktop/AdaptiDay/imgui -I/opt/homebrew/include/freetype2 -g -std=c++2b -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -o CMakeFiles/imgui_freetype.dir/imgui/misc/freetype/imgui_freetype.cpp.o -c /Users/coder/Desktop/AdaptiDay/imgui/misc/freetype/imgui_freetype.cpp",
+  "file": "/Users/coder/Desktop/AdaptiDay/imgui/misc/freetype/imgui_freetype.cpp",
+  "output": "CMakeFiles/imgui_freetype.dir/imgui/misc/freetype/imgui_freetype.cpp.o"
+}
+]
