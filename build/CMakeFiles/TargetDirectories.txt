@@ -1,9 +1,0 @@
-/Users/coder/Desktop/AdaptiDay/build/CMakeFiles/imgui.dir
-/Users/coder/Desktop/AdaptiDay/build/CMakeFiles/AdaptiDay.dir
-/Users/coder/Desktop/AdaptiDay/build/CMakeFiles/imgui_freetype.dir
-/Users/coder/Desktop/AdaptiDay/build/CMakeFiles/edit_cache.dir
-/Users/coder/Desktop/AdaptiDay/build/CMakeFiles/rebuild_cache.dir
-/Users/coder/Desktop/AdaptiDay/build/src/CMakeFiles/edit_cache.dir
-/Users/coder/Desktop/AdaptiDay/build/src/CMakeFiles/rebuild_cache.dir
-/Users/coder/Desktop/AdaptiDay/build/include/CMakeFiles/edit_cache.dir
-/Users/coder/Desktop/AdaptiDay/build/include/CMakeFiles/rebuild_cache.dir
